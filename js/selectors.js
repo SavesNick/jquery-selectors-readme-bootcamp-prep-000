@@ -4,5 +4,5 @@ function lastImageSelector(){return $("div img:last")}
 
 function ninjaBabySelector(){return $("#baby-ninja")}
 
-function divSelector(){}
+function divSelector(){$(".pics")}
 function firstListItem(){}
