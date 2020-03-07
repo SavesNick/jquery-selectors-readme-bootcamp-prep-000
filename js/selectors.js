@@ -12,8 +12,5 @@ function ninjaBabySelector(){
    return $("#baby-ninja")
 }
 
-function divSelector(){
-  
-  
-}
+function divSelector(){}
 function firstListItem(){}
