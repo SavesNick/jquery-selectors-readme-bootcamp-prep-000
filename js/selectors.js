@@ -5,4 +5,4 @@ function lastImageSelector(){return $("div img:last")}
 function ninjaBabySelector(){return $("#baby-ninja")}
 
 function divSelector(){return $(".pics")}
-function firstListItem(){return $("li ul:#pic-list")}
+function firstListItem(){return $("ul li:#pic-list")}
